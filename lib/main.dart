@@ -43,8 +43,8 @@ class _PaginaInicioState extends State<PaginaInicio> {
               leading: CircleAvatar(
                 backgroundImage: AssetImage(images[index]),
               ),
-              title: Text("This is title"),
-              subtitle: Text("This is subtitle"),
+              title: Text("titulo"),
+              subtitle: Text("Dubtitulo"),
             ),
           );
         },
